@@ -41,3 +41,4 @@ A to-do app for tracking tasks in all phases of life.
 - [ ] Add scheduled tasks/events to calendar
 - [ ] Color code tasks/events on calendar
 - [ ] Ability to jot down quick notes both related to tasks/events and on their own
+- [ ] Search for tasks with or without module filters using a search bar
