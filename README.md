@@ -22,7 +22,8 @@ A to-do app for tracking tasks in all phases of life.
     - [ ] Do Date?
     - [ ] Est. Time?
     - [ ] Done
-  - [ ] Class Time Tracking
+  - [ ] Class Time Tracking/Logging
+  - [ ] Class Schedule 
 - [ ] Home Modules
   - [ ] Grocery List
   - [ ] Travel Plans List
